@@ -1,4 +1,4 @@
-package com.example.configserver;
+package com.ensa.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
